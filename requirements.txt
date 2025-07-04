@@ -1,0 +1,5 @@
+   tkinter
+   pyttsx3
+   SpeechRecognition
+   vosk
+   # также требуется установить модель vosk. Ее нужно устанавливать отдельно, создав в корне репозитория программы папку Model и установив туда модель (https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip)
